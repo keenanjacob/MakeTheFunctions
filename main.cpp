@@ -70,5 +70,4 @@ void printVector(vector<int> & list)
   {
     cout<<list[r]<< " ";
   }
-  cout<<endl;
 }
