@@ -68,6 +68,7 @@ void printVector(vector<int> & list)
 {
   for(int r=0; r<list.size(); r++)
   {
-    cout<<list[r]<<endl;
+    cout<<list[r]<< " ";
   }
+  cout<<endl;
 }
